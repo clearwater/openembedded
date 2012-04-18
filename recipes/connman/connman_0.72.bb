@@ -27,5 +27,6 @@ SRC_URI  = "\
   file://connman \
 "
 
-SRC_URI[md5sum] = "800f9356e0471c88819eee7184713a1f"
-SRC_URI[sha256sum] = "9c8ad312573683fc9f50d5042d4a87ddc8e0700b27ac1b0fb8dc2e8b7424a60f"
+SRC_URI[md5sum] = "0f46cf553300d745e64738292b9b395d"
+SRC_URI[sha256sum] = "097ed6374880bcf4e331d7c786e29d3ad2be802fa57a3e5c6fdaa7bd955062ec"
+
