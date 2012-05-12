@@ -17,7 +17,6 @@ S = "${WORKDIR}/node-v${PV}"
 CCACHE = ""
 
 # v8 wont build on less than armv5t
-DEST_CPU=armv5te
 do_configure () {
   ./configure --prefix=${prefix} --without-snapshot
 }
